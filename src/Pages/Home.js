@@ -8,9 +8,9 @@ import Footer from '../components/Footer';
 const Home = () => {
   return (
     <div>
-        <Navbar/>
+        {/* <Navbar/>
         <HeroBanner/>
-        <ProjectsComponent/>
+        <ProjectsComponent/> */}
         <ContactMe/>
         <Footer/>
     </div>
